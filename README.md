@@ -22,4 +22,3 @@ This application is part of a study conducted by the EnCoDe Lab at USF to explor
 
 ![Driving Behavior App](driving_app.png)
 
-## 📁 Folder Structure
