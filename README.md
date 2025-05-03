@@ -20,6 +20,6 @@ This application is part of a study conducted by the EnCoDe Lab at USF to explor
 
 ## 📷 Screenshots
 
-driving_app_screenshot.png
+![Driving Behavior App](driving_app.png)
 
 ## 📁 Folder Structure
