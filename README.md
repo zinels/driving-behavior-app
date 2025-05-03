@@ -19,6 +19,6 @@ An Android app built using Unity and C# for behavioral research at USF’s EnCoD
 This application is part of a study conducted by the EnCoDe Lab at USF to explore the influence of music volume on driving behavior.
 
 ## 📷 Screenshots
-*(Add UI screenshots here if possible)*
+![Driving Behavior App](driving_app_screenshot.png)
 
 ## 📁 Folder Structure
